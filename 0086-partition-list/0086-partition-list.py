@@ -2,10 +2,8 @@ class Solution:
     def partition(self, head: Optional[ListNode], x: int) -> Optional[ListNode]:
         lesser_node=ListNode(0)
         greater_node=ListNode(0)
-
         less=lesser_node
         greater=greater_node
-
         curr=head
         while curr:
             if curr.val<x:
