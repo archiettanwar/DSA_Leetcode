@@ -13,6 +13,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
@@ -29,6 +31,7 @@
 | [0086-partition-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -45,4 +48,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
