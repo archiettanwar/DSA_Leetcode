@@ -6,16 +6,11 @@
 
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
-        myset=set()
-        la=headA
-        while la:
-            myset.add(la)
-            la=la.next
-        lb=headB
-        while lb:
-            if lb not in myset:
-                myset.add(lb)
-            else:
-                return lb
-            lb=lb.next
-        return 
+        if not headA or not headB:
+            return 
+        pointerA=headA
+        pointerB=headB
+        while pointerA!=pointerB:
+            pointerA=pointerA.next if pointerA else headB
+            pointerB=pointerB.next if pointerB else headA
+        return pointerA
