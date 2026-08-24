@@ -28,6 +28,7 @@
 | [0725-split-linked-list-in-parts](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
@@ -80,6 +81,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,4 +99,17 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
+## Array
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
