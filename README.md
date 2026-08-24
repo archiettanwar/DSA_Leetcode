@@ -24,6 +24,7 @@
 | [0206-reverse-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0707-design-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
