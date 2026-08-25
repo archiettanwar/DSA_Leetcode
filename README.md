@@ -24,6 +24,7 @@
 | [0206-reverse-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -107,9 +108,14 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
