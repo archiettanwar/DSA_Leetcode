@@ -27,6 +27,7 @@
 | [0234-palindrome-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -75,6 +76,7 @@
 | [0146-lru-cache](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0202-happy-number) |
+| [0460-lfu-cache](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0460-lfu-cache) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
 ## Array
@@ -115,6 +118,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
