@@ -94,6 +94,7 @@
 | [0234-palindrome-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
@@ -160,4 +161,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0682-baseball-game) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
