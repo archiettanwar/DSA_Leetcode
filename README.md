@@ -61,6 +61,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Math
@@ -94,6 +95,7 @@
 | [0234-palindrome-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
@@ -161,8 +163,10 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
