@@ -81,6 +81,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0460-lfu-cache](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0460-lfu-cache) |
+| [0496-next-greater-element-i](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -94,6 +95,7 @@
 | [0143-reorder-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -125,6 +127,7 @@
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0682-baseball-game](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0682-baseball-game) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
@@ -171,4 +174,8 @@
 | [0844-backspace-string-compare](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1544-make-the-string-great) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
