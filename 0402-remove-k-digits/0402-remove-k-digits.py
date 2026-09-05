@@ -9,4 +9,4 @@ class Solution:
         if k>0:
             stack=stack[:-k]
         res=''.join(stack).lstrip("0")
-        return res if res else "0"
+        return res if res else "0"            
