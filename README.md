@@ -94,6 +94,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -162,6 +163,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0402-remove-k-digits) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Sliding Window
 |  |
@@ -175,12 +177,14 @@
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0739-daily-temperatures) |
