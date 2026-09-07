@@ -128,6 +128,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
 ## Array
 |  |
@@ -148,6 +149,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
 ## Depth-First Search
 |  |
@@ -194,4 +196,5 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
