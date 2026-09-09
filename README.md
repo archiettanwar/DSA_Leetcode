@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0148-sort-list) |
 ## Sorting
@@ -135,6 +136,7 @@
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0496-next-greater-element-i](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -202,13 +204,16 @@
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
