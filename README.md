@@ -33,6 +33,7 @@
 | [0460-lfu-cache](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
@@ -84,6 +85,7 @@
 | [0460-lfu-cache](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0817-linked-list-components](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0817-linked-list-components) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0682-baseball-game](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0739-daily-temperatures) |
+| [0817-linked-list-components](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0817-linked-list-components) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
