@@ -107,6 +107,7 @@
 | [0739-daily-temperatures](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1544-make-the-string-great) |
 ## Divide and Conquer
@@ -136,6 +137,7 @@
 | [0460-lfu-cache](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
 ## Array
 |  |
@@ -147,6 +149,7 @@
 | [0682-baseball-game](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0739-daily-temperatures) |
 | [0817-linked-list-components](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0817-linked-list-components) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
