@@ -48,6 +48,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -72,6 +73,7 @@
 | [0002-add-two-numbers](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0224-basic-calculator) |
 | [0445-add-two-numbers-ii](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Table
@@ -99,6 +101,7 @@
 | [0143-reorder-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0402-remove-k-digits) |
@@ -196,6 +199,7 @@
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
