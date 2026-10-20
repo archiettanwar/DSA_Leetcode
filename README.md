@@ -38,6 +38,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1669-merge-in-between-linked-lists) |
+| [1670-design-front-middle-back-queue](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
@@ -148,6 +149,7 @@
 | [0933-number-of-recent-calls](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Array
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 | [0817-linked-list-components](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0817-linked-list-components) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -168,11 +171,13 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -222,6 +227,7 @@
 | [0225-implement-stack-using-queues](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Tree
 |  |
 | ------- |
