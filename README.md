@@ -155,6 +155,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0239-sliding-window-maximum](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Tournament Sort
 |  |
@@ -199,6 +201,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Simulation
 |  |
@@ -226,6 +229,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Tree
@@ -243,4 +247,12 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
