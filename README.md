@@ -78,6 +78,7 @@
 | [0227-basic-calculator-ii](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2409-count-days-spent-together](https://github.com/archiettanwar/DSA_Leetcode/tree/master/2409-count-days-spent-together) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | [0844-backspace-string-compare](https://github.com/archiettanwar/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/archiettanwar/DSA_Leetcode/tree/master/1544-make-the-string-great) |
+| [2409-count-days-spent-together](https://github.com/archiettanwar/DSA_Leetcode/tree/master/2409-count-days-spent-together) |
 ## Monotonic Stack
 |  |
 | ------- |
